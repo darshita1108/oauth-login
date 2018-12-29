@@ -1,0 +1,22 @@
+{
+  "name": "oauth-playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darshita",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.3",
+    "cookie-session": "^2.0.0-beta.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "helmet": "^3.15.0",
+    "mongoose": "^5.4.1",
+    "nodemon": "^1.18.9",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0"
+  }
+}
